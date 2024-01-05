@@ -1,9 +1,3 @@
----
-title: "About Us"
-date: 2024-01-05T11:56:34+08:00
-draft: true
----
-
 
 #### 专业的外贸网址导航网站
 
@@ -31,7 +25,7 @@ draft: true
 
 如果您觉得本项目对您有所帮助，欢迎赞助我们，支持 [外贸之家](https://na8.top) 网站长期稳定运营。金额不限，谢谢！ 
 
-> ![打赏鼓励一下](https://nav8.top/assets/images/收款二维码.png)
+> ![打赏鼓励一下](https://koltluo.github.io/assets/images/收款二维码.png)
 
 #### 友链申请
 
