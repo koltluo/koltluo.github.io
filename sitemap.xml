@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://koltluo.github.io/</loc>
+    <lastmod>2024-01-23T23:43:07+08:00</lastmod>
+  </url><url>
     <loc>https://koltluo.github.io/privacy/</loc>
     <lastmod>2024-01-23T23:43:07+08:00</lastmod>
   </url><url>
@@ -9,9 +12,6 @@
     <lastmod>2024-01-10T18:50:20+08:00</lastmod>
   </url><url>
     <loc>https://koltluo.github.io/post/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</loc>
-    <lastmod>2024-01-10T18:50:20+08:00</lastmod>
-  </url><url>
-    <loc>https://koltluo.github.io/</loc>
     <lastmod>2024-01-10T18:50:20+08:00</lastmod>
   </url><url>
     <loc>https://koltluo.github.io/post/%E8%B5%9E%E5%8A%A9%E6%88%91%E4%BB%AC/</loc>
